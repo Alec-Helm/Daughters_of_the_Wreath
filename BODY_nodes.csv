@@ -1,0 +1,67 @@
+Node ID,Written Description,Secondary Effect Code,Tertiary Effect Code,Text Boon,Function ID
+HP,Increases HP by 2,"[""HP""] += 2",,,BHP_fun
+Slow Regen,Increases Slow Regen by 1,"[""Slow Regen""] += 1",,,BSR_fun
+Durability,Increases Durability by 1,"[""Durability""] += 1",,,BD_fun
+Strength,Increases Strength by 1,"[""Strength""] += 1",,,Bstrength_fun
+Atheletics,Increases Atheletics by 1,,,,BAtheletics_fun
+Heavy Precision,Increases Heavy Precision by 1,,"[""Heavy Precision""] += 1",,BHeavyPrecision_fun
+Standard Precision,Increases Standard Precision by 1,,"[""Standard Precision""] += 1",,BStandardPrecision_fun
+Light Precision,Increases Light Precision by 1,,"[""Light Precision""] += 1",,BLightPrecision_fun
+Ranged Precision,Increases Ranged Precision by 1,,"[""Ranged Precision""] += 1",,BRangedPrecision_fun
+Thrown Precision,Increases Thrown Precision by 1,,"[""Thrown Precision""] += 1",,BThrownPrecision_fun
+Shield Precision,Increases Shield Precision by 1,,"[""Shield Precision""] += 1",,BShieldPrecision_fun
+Slashing Precision,Increases Slashing Precision by 1,,"[""Slashing Precision""] += 1",,BSlashingPrecision_fun
+Piercing Precision,Increases Piercing Precision by 1,,"[""Piercing Precision""] += 1",,BPiercingPrecision_fun
+Bludgeoning Precision,Increases Bludgeoning Precision by 1,,"[""Bludgeoning Precision""] += 1",,BBludgeoningPrecision_fun
+Heavy Damage,Increases Heavy Damage by 1,,"[""Heavy Damage""] += 1",,BHeavyDamage_fun
+Standard Damage,Increases Standard Damage by 1,,"[""Standard Damage""] += 1",,BStandardDamage_fun
+Light Damage,Increases Light Damage by 1,,"[""Light Damage""] += 1",,BLightDamage_fun
+Ranged Damage,Increases Ranged Damage by 1,,"[""Ranged Damage""] += 1",,BRangedDamage_fun
+Thrown Damage,Increases Thrown Damage by 1,,"[""Thrown Damage""] += 1",,BThrownDamage_fun
+Slashing Damage,Increases Slashing Damage by 1,,"[""Slashing Damage""] += 1",,BSlashingDamage_fun
+Piercing Damage,Increases Piercing Damage by 1,,"[""Piercing Damage""] += 1",,BPiercingDamage_fun
+Bludgeoning Damage,Increases Bludgeoning Damage by 1,,"[""Bludgeoning Damage""] += 1",,BBludgeoningDamage_fun
+Unarmed Precision,Increases Unarmed Precition by 1,,,,BUnarmedPrecision_fun
+Unarmed Damage,Increases Unarmed Damage by 1,,,,BUnarmedDamage_fun
+Intimidation,Increases Intimidation by 1,,,,
+Critical Damage,Increases Critical Damage by 1,,,,
+Combat Tricks,Increases Combat Tricks by 1,,,,
+Tumble,Increases Tumble by 1,,,,
+Feint,Increases Feint by 1,,,,
+Shield Damage,Increases Shield Damage by 1,,,,
+,,,,,
+,,,,,
+,,,,,
+Heavy Weapon Mastery,Grants Heavy Weapon Mastery,,,,
+Standard Weapon Mastery,Grants Standard Weapon Mastery,,,,
+Light Weapon Mastery,Grants Light Weapon Mastery,,,,
+Slashing Weapon Mastery,Grants Slashing Weapon Mastery,,,,
+Piercing Weapon Mastery,Grants Piercing Weapon Mastery,,,,
+Bludgeoning Weapon Mastery,Grants Bludgeoning Weapon Mastery,,,,
+Ranged Weapon Mastery,Grants Ranged Weapon Mastery,,,,
+Thrown Weapon Mastery,Grants Thrown Weapon Mastery,,,,
+Shield Mastery,Grants Shield Mastery,,,,
+Unarmed Mastery,Grants Unarmed Mastery,,,,
+Two-Weapon Fighting Mastery,Grants Two Weapon Fighting Mastery,,,,
+Sword and Shield Mastery,Grants Sword and Shield Mastery,,,,
+Dual Shield Mastery,Grants Dual Shield Mastery,,,,
+Intimidation Mastery,Grants Intimidation Mastery,,,,
+Feinting Mastery,Grants Feinting Mastery,,,,
+Riposting Mastery,Grants Riposting Mastery,,,,
+Weapon Switching Mastery,Grants Weapon Switching Mastery,,,,
+Wreath Wrecker,Grants Wreath Wrecker,,,,
+Athletic Mastery,Grants Athletic Mastery,,,,
+Critical Strike Mastery,Grants Critical Strike Mastery,,,,
+Poison Mastery,Grants Poison Mastery,,,,
+Disarming Mastery,Grants Disarming Mastery,,,,
+Health Mastery,Grants Health Mastery,,,,
+Durability Mastery,Grants Durability Mastery,,,,
+Recovery Mastery,Grants Recovery Mastery,,,,
+Destruction Mastery,Grants Destruction Mastery,,,,
+Reaction Mastery,Grants Reaction Mastery,,,,
+Combat Tricks Mastery,Grants Combat Tricks Mastery,,,,
+,,,,,
+,,,,,
+,,,,,
+Fire Resistent,,,,Set all fire damage taken to zero. Increase all elemental damage taken by 25%,
+Three-Weapon Fighting,,,,,
