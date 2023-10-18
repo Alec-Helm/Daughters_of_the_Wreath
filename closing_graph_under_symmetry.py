@@ -20,8 +20,3 @@ with open('Node_Master_List_Radial-Copy.csv') as file:
                     if next_neighbor != '' and int(next_neighbor) != 0:
                         neighbor_list.append(int(next_neighbor))
                 output.update({next_index: neighbor_list})
-
-
-        
-    
-    
